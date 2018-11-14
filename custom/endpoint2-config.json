@@ -1,0 +1,7 @@
+{
+  "plugin": "com.gatehill.imposter.plugin.rest.RestPluginImpl",
+  "path": "/endpoint2",
+  "response": {
+    "scriptFile": "endpoint2.js"
+  }
+}

@@ -1,0 +1,8 @@
+
+{
+  "plugin": "com.gatehill.imposter.plugin.rest.RestPluginImpl",
+  "path": "/endpoint1",
+  "response": {
+    "staticFile": "endpoint1-data.json"
+  }
+}
